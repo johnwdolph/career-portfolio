@@ -2,7 +2,7 @@
 
 
 /**
- * main.c - John Dolph (Final Project) 8/5/2020
+ * main.c - John Dolph 8/5/2020
  */
 
 //char packet[] = {start address, sec, min, hour, day, weekday, month, year}
