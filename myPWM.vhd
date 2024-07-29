@@ -31,12 +31,6 @@ entity myPWM is
         clk : in std_logic; -- system clock
         reset : in std_logic; -- system reset
         SYS_CLKs_sec : in std_logic_vector(31 downto 0); -- system clocks in one secondecho "# career-portfolio" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/johnwdolph/career-portfolio.git
-git push -u origin main
         period : in std_logic_vector(W_period-1 downto 0); -- PWM repetition period (milliseconds)
         duty_cycle : in std_logic_vector(W_duty_cycle-1 downto 0); -- PWM control word: [0 100];
         signal_out : out std_logic -- PWM output signal
