@@ -4,6 +4,6 @@ These files are some samples of my work taken from my private repositories. They
 
 
 Here is a sample website:
-  https://johnwdolph.github.io/sample-website/
+  https://johnwdolph.github.io/portfolio/
 
 Thanks for visiting!
