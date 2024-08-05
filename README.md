@@ -8,7 +8,7 @@ These files are some samples of my work taken from my private repositories. They
 
 `bare-metal-mcu.c` - This is a bare-metal program written for an MSP430 microcontroller.
 
-`nmyPWM.vhd` - A hardware specification for a custom FPGA PWM component.
+`myPWM.vhd` - A hardware specification for a custom FPGA PWM component.
 
 Here is a sample website:
   https://johnwdolph.github.io/portfolio/
